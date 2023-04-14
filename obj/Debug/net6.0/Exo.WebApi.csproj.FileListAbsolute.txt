@@ -1,0 +1,7 @@
+C:\Users\EuripJr\Desktop\SENAI Back-End\3 Módulo Específico\Desenvolvimento de APIs\3 MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.csproj.AssemblyReference.cache
+C:\Users\EuripJr\Desktop\SENAI Back-End\3 Módulo Específico\Desenvolvimento de APIs\3 MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EuripJr\Desktop\SENAI Back-End\3 Módulo Específico\Desenvolvimento de APIs\3 MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.AssemblyInfoInputs.cache
+C:\Users\EuripJr\Desktop\SENAI Back-End\3 Módulo Específico\Desenvolvimento de APIs\3 MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.AssemblyInfo.cs
+C:\Users\EuripJr\Desktop\SENAI Back-End\3 Módulo Específico\Desenvolvimento de APIs\3 MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\EuripJr\Desktop\SENAI Back-End\3 Módulo Específico\Desenvolvimento de APIs\3 MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\EuripJr\Desktop\SENAI Back-End\3 Módulo Específico\Desenvolvimento de APIs\3 MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.MvcApplicationPartsAssemblyInfo.cache
